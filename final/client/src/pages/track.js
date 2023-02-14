@@ -25,8 +25,7 @@ const GET_TRACK = gql`
       }
       description
     }
-  }
-`;
+  }`;
 
 /**
  * Track Page fetches a track's data from the gql query GET_TRACK
